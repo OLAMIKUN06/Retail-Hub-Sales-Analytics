@@ -178,7 +178,7 @@ All visualizations were created in Python using matplotlib and seaborn.Based on 
 
 2️⃣ Top 10 Products by Sales (Bar Chart)
 
-![Top 10 Products by Sales](4.images/2._P_b_S.png)
+![Top 10 Products by Sales](4.Images/2._P_by_S.png)
 
 **3.	High-value customers exist and matter**
 - CustomerID 87577 is a high-value customer with total sales around 2000, while others in the top 10 generate lower totals (~1250).
@@ -273,3 +273,4 @@ With more complete and longer-term data (including profit, customer demographics
 
 
 ##
+
